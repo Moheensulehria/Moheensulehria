@@ -1,21 +1,4 @@
 ![WhatsApp Image 2025-11-24 at 11 59 15_38832f74](https://github.com/user-attachments/assets/548271c1-6ff8-495a-80c5-22c201adb8f5)
-<!-- Sky Blue Full Background -->
-<div style="
-    background: #87CEEB; 
-    padding: 40px 20px;
-    border-radius: 12px;
-">
-
-<!-- Glass Effect Card -->
-<div style="
-    backdrop-filter: blur(10px);
-    background: rgba(255, 255, 255, 0.25);
-    border-radius: 16px;
-    padding: 30px;
-    box-shadow: 0 4px 30px rgba(0,0,0,0.2);
-    border: 1px solid rgba(255,255,255,0.3);
-">
-
 <h1 align="center">AOA ! IT'S MOHEEN UL HAQ</h1>
 <h3 align="center">A Student of Computer Engineering Technology UAJK.</h3>
 
@@ -67,17 +50,3 @@
 
 ---
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moheensulehria-collab&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=moheensulehria-collab&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=moheensulehria-collab&theme=tokyonight" />
-</p>
-
-</div> <!-- Glass card end -->
-</div> <!-- Sky background end -->
