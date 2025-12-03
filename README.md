@@ -1,16 +1,82 @@
-## Hi there 👋
+<!-- Sky Blue Full Background -->
+<div style="
+    background: #87CEEB; 
+    padding: 40px 20px;
+    border-radius: 12px;
+">
 
-<!--
-**Moheensulehria/Moheensulehria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Glass Effect Card -->
+<div style="
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 16px;
+    padding: 30px;
+    box-shadow: 0 4px 30px rgba(0,0,0,0.2);
+    border: 1px solid rgba(255,255,255,0.3);
+">
 
-Here are some ideas to get you started:
+<h1 align="center">AOA ! IT'S MOHEEN UL HAQ</h1>
+<h3 align="center">A Student of Computer Engineering Technology UAJK.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=moheensulehria-collab&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=moheensulehria-collab&theme=onestar&no-frame=true" />
+ </a>
+</p>
+
+---
+
+### 🔭 I’m currently studying *C++*
+
+### 👯 I’m also learning *C#*
+
+### 👨‍💻 All of my C++ projects are available at  
+➡ **https://github.com/moheensulehria-collab**
+
+### 📝 I regularly learn about *C#*
+
+### 📫 How to reach me  
+📧 *moheensulehria@gmail.com*
+
+---
+
+## 🌐 Connect with me:
+<p>
+<a href="https://fb.com/moheensulehria" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="50" />
+</a>
+<a href="https://instagram.com/moheensulehria9050" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
+</a>
+</p>
+
+---
+
+## 🛠 Languages and Tools:
+<p>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45" height="45"/>
+</p>
+
+---
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moheensulehria-collab&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=moheensulehria-collab&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=moheensulehria-collab&theme=tokyonight" />
+</p>
+
+</div> <!-- Glass card end -->
+</div> <!-- Sky background end -->
